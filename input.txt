@@ -1,0 +1,10 @@
+resume 履歷表
+opening 空缺、職缺
+applicant 申請者
+requirement 必要條件
+meet 滿足、符合(必要條件)
+apple 蘋果
+banana 香蕉
+badminton 羽球
+Vincent 楊孟憲
+HelloWorld~ 哈囉世界
